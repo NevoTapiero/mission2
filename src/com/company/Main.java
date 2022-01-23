@@ -20,8 +20,8 @@ public class Main {
                 }
             }
         }
-        else
-            System.out.println(firsttemp);
+        /*else
+            System.out.println(firsttemp);*/
 
         if(non == 0)
             System.out.println(-1);
